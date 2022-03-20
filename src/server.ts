@@ -20,4 +20,4 @@ app.use ((req: Request , res: Response) => {
 
 
 
-app.listen(80)
+app.listen(3000)
